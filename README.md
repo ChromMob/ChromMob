@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ChromMob'm a a Java, C++ and VHDL dev, from the Czech Republic</h2>
+<h2 align="left">Hi 👋! My name is ChromMob I'm a a Java, C++ and VHDL dev, from the Czech Republic</h2>
 
 ###
 
